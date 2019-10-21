@@ -1,2 +1,4 @@
-# calculo_jesus_calderin
+# Jesus R Calderin
+### @jcalderin91
 Repositorio para asignatura de Calculo numerico
+
